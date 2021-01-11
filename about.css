@@ -1,13 +1,8 @@
-
-  p {
-    text-align:center;
-    font-size:23px;
-    padding-right: 70px;
-    padding-left: 70px;
-    padding-bottom: 30px;
-    padding-top: 30px;
-  }
-
-
-
-
+p {
+	text-align: center;
+	font-size: 23px;
+	padding-right: 70px;
+	padding-left: 70px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
