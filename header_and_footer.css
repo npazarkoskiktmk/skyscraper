@@ -1,0 +1,67 @@
+.topnav {
+    background-color: #292828;
+    height: 80px;
+    overflow: hidden;
+    list-style: none;
+  }
+
+  .topnav a {
+    color: #f2f2f2;
+    font-size: 30px;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .topnav span {
+    position: relative;
+    left: 34%;
+  }
+
+  .topnav img {
+    padding-left: 30px;
+    display:inline-block;
+    vertical-align: middle;
+  }
+
+  .footer {
+    position: absolute;
+    color: #f2f2f2;
+    background-color: #292828;
+    height: 265px;
+    overflow: hidden;
+    list-style: none;
+    bottom: 0;
+    width: 100%;
+    }
+
+  .footer a {
+    color: #f2f2f2;
+    font-size: 20px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: block;
+  }
+
+  .footer #contact_details {
+    padding-top: 50px;
+    padding-left: 30px;
+    float: right;
+    display:inline;
+  }
+
+  .footer #navigation{
+    padding-top: 50px;
+    padding-left: 30px;
+    float:left;
+    display:inline;
+  }
+
+  .footer #bottom_span {
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+  }
+
