@@ -1,39 +1,40 @@
 body {
-    background-image: url("assets/multiple_scrapers.jpg");
-    background-size: 100%;
+	background-image: url("assets/multiple_scrapers.jpg");
+	background-size: 100%;
 }
 
 #header {
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
- }
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
 
- #header h1{
-     font-size: 50px;
-     color: #292828;
- }
+#header h1 {
+	font-size: 50px;
+	color: #292828;
+}
 
- #header h2 {
-    font-size: 40px;
-     color: gray;
- }
+#header h2 {
+	font-size: 40px;
+	color: gray;
+}
 
- form {
-    position: absolute;
-    top: 50%;
-    left: 49%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
- }
+form {
+	position: absolute;
+	top: 50%;
+	left: 49%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
 
- #button {
-    height:50px;
-    width: 200px;
-    text-align: center;
-    border-radius: 5px;
-    background-color: #292828;
-    font-size: 20px; color: white;
- }
+#button {
+	height: 50px;
+	width: 200px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #292828;
+	font-size: 20px;
+	color: white;
+}

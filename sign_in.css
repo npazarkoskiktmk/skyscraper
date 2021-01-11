@@ -1,35 +1,37 @@
+form {
+	margin: 0;
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
 
- form {
-    margin: 0;
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
- }
+input[type=submit]:hover {
+	background-color: #292828;
+}
 
-  input[type=submit]:hover {
-    background-color: #292828;
-  }
+input {
+	background-color: #292828;
+	color: #f2f2f2;
+	padding: 12px 20px;
+	margin: 30px 0;
+	display: block;
+	border: 1px solid #ccc;
+}
 
-  input {
-    background-color: #292828;
-    color: #f2f2f2;
-    padding: 12px 20px;
-    margin: 30px 0;
-    display: block;
-    border: 1px solid #ccc;
-  }
+h1 {
+	padding-left: 120px;
+	font-size: 45px;
+}
 
-  h1 {
-    padding-left: 120px;
-    font-size: 45px;
- }
-
- #sign_in_button {
-  height:30px; width: 120px;
-  text-align: center; border-radius: 5px;
-  position: absolute; left: 30%;
-  -ms-transform: translateX(-50%);
-  transform: translateY(-50%);
- }
+#sign_in_button {
+	height: 30px;
+	width: 120px;
+	text-align: center;
+	border-radius: 5px;
+	position: absolute;
+	left: 30%;
+	-ms-transform: translateX(-50%);
+	transform: translateY(-50%);
+}
