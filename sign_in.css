@@ -1,0 +1,22 @@
+
+ form {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+ }
+
+  input[type=submit]:hover {
+    background-color: #292828;
+  }
+
+  input {
+    background-color: #292828;
+    color: #f2f2f2;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: block;
+    border: 1px solid #ccc;
+  }
